@@ -1,0 +1,17 @@
+
+1::: mcpos.local::: /index.php/customers::: false::: false::: 127.0.0.1:::', 29-08-2020:02:07:22pm
+1::: mcpos.local::: /index.php/config::: false::: false::: 127.0.0.1:::', 29-08-2020:02:07:25pm
+1::: mcpos.local::: /index.php/customers::: false::: false::: 127.0.0.1:::', 29-08-2020:02:07:28pm
+1::: mcpos.local::: /index.php/items::: false::: false::: 127.0.0.1:::', 29-08-2020:02:07:29pm
+1::: mcpos.local::: /index.php/item_kits::: false::: false::: 127.0.0.1:::', 29-08-2020:02:07:31pm
+1::: mcpos.local::: /index.php/config::: false::: false::: 127.0.0.1:::', 29-08-2020:02:07:35pm
+1::: mcpos.local::: /index.php/sales::: false::: false::: 127.0.0.1:::', 29-08-2020:02:07:55pm
+1::: mcpos.local::: /index.php/sales/item_search::: {"q":"a","limit":"100","timestamp":"1598688478631"}::: false::: 127.0.0.1:::', 29-08-2020:02:07:59pm
+1::: mcpos.local::: /index.php/sales/item_search::: {"q":"al","limit":"100","timestamp":"1598688479231"}::: false::: 127.0.0.1:::', 29-08-2020:02:07:59pm
+1::: mcpos.local::: /index.php/sales/item_search::: {"q":"ali","limit":"100","timestamp":"1598688479469"}::: false::: 127.0.0.1:::', 29-08-2020:02:07:59pm
+1::: mcpos.local::: /index.php/sales/add::: {"item":"1396"}::: false::: 127.0.0.1:::', 29-08-2020:02:08:01pm
+1::: mcpos.local::: /index.php/sales/add_payment::: {"payment_type":"Cash","amount_tendered":"10.00"}::: false::: 127.0.0.1:::', 29-08-2020:02:08:05pm
+1::: mcpos.local::: /index.php/sales/complete::: {"comment":""}::: false::: 127.0.0.1:::', 29-08-2020:02:08:10pm
+1::: mcpos.local::: /index.php/config::: false::: false::: 127.0.0.1:::', 29-08-2020:02:08:48pm
+1::: mcpos.local::: /index.php/customers::: false::: false::: 127.0.0.1:::', 29-08-2020:02:18:35pm
+1::: mcpos.local::: /index.php/config::: false::: false::: 127.0.0.1:::', 29-08-2020:03:06:31pm

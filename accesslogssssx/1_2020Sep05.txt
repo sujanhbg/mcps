@@ -1,0 +1,7 @@
+
+1::: mcpos.local::: /index.php/home::: false::: false::: 127.0.0.1:::', 05-09-2020:03:22:51am
+1::: mcpos.local::: /index.php/reports::: false::: false::: 127.0.0.1:::', 05-09-2020:03:22:53am
+1::: mcpos.local::: /index.php/reports/summary_sales::: false::: false::: 127.0.0.1:::', 05-09-2020:03:22:57am
+1::: mcpos.local::: /index.php/customers::: false::: false::: 127.0.0.1:::', 05-09-2020:03:23:38am
+1::: mcpos.local::: /index.php/items::: false::: false::: 127.0.0.1:::', 05-09-2020:03:23:41am
+1::: mcpos.local::: /index.php/items/count_details/3869/width:450/random:1599254627835::: false::: false::: 127.0.0.1:::', 05-09-2020:03:23:48am

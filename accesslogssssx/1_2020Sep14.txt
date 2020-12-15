@@ -1,0 +1,6 @@
+
+1::: mcpos.local::: /index.php/home::: false::: false::: 127.0.0.1:::', 14-09-2020:01:03:45am
+1::: mcpos.local::: /index.php/sales::: false::: false::: 127.0.0.1:::', 14-09-2020:01:03:49am
+1::: mcpos.local::: /index.php/reports::: false::: false::: 127.0.0.1:::', 14-09-2020:01:03:51am
+1::: mcpos.local::: /index.php/reports/summary_sales::: false::: false::: 127.0.0.1:::', 14-09-2020:01:04:10am
+1::: mcpos.local::: /index.php/reports/summary_sales/2020-08-01/2020-08-31/all/0::: false::: false::: 127.0.0.1:::', 14-09-2020:01:05:29am

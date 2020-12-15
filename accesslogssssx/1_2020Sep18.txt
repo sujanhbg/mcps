@@ -1,0 +1,11 @@
+
+1::: mcpos.local::: /index.php/home::: false::: false::: 127.0.0.1:::', 18-09-2020:09:16:16am
+1::: mcpos.local::: /index.php/items::: false::: false::: 127.0.0.1:::', 18-09-2020:09:16:24am
+1::: mcpos.local::: /index.php/sales::: false::: false::: 127.0.0.1:::', 18-09-2020:09:16:30am
+1::: mcpos.local::: /index.php/sales/item_search::: {"q":"m","limit":"100","timestamp":"1600398994378"}::: false::: 127.0.0.1:::', 18-09-2020:09:16:34am
+1::: mcpos.local::: /index.php/sales/item_search::: {"q":"r","limit":"100","timestamp":"1600399001522"}::: false::: 127.0.0.1:::', 18-09-2020:09:16:41am
+1::: mcpos.local::: /index.php/customers::: false::: false::: 127.0.0.1:::', 18-09-2020:09:16:47am
+1::: mcpos.local::: /index.php/items::: false::: false::: 127.0.0.1:::', 18-09-2020:09:16:52am
+1::: mcpos.local::: /index.php/config::: false::: false::: 127.0.0.1:::', 18-09-2020:09:16:56am
+1::: mcpos.local::: /index.php/config::: false::: false::: 127.0.0.1:::', 18-09-2020:09:17:38am
+1::: mcpos.local::: /index.php/config::: false::: false::: 127.0.0.1:::', 18-09-2020:09:17:41am

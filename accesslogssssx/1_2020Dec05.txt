@@ -1,0 +1,25 @@
+
+1::: mcpos.local::: /index.php/customers::: false::: false::: 127.0.0.1:::', 05-12-2020:12:30:46pm
+1::: mcpos.local::: /index.php/items/generate_barcodes/7020::: false::: false::: 127.0.0.1:::', 05-12-2020:12:30:50pm
+1::: mcpos.local::: /index.php/customers::: false::: false::: 127.0.0.1:::', 05-12-2020:12:31:08pm
+1::: mcpos.local::: /index.php/suppliers::: false::: false::: 127.0.0.1:::', 05-12-2020:12:31:09pm
+1::: mcpos.local::: /index.php/customers::: false::: false::: 127.0.0.1:::', 05-12-2020:12:33:22pm
+1::: mcpos.local::: /index.php/items::: false::: false::: 127.0.0.1:::', 05-12-2020:12:33:25pm
+1::: mcpos.local::: /index.php/items/view/-1/width:450/random:1607150008338::: false::: false::: 127.0.0.1:::', 05-12-2020:12:33:28pm
+1::: mcpos.local::: /index.php/items/suggest_custom1::: {"q":"","limit":"100","timestamp":"1607150008465"}::: false::: 127.0.0.1:::', 05-12-2020:12:33:28pm
+1::: mcpos.local::: /index.php/items/suggest_category::: {"q":"","limit":"100","timestamp":"1607150008462"}::: false::: 127.0.0.1:::', 05-12-2020:12:33:28pm
+1::: mcpos.local::: /index.php/items/suggest_custom10::: {"q":"","limit":"100","timestamp":"1607150008469"}::: false::: 127.0.0.1:::', 05-12-2020:12:33:28pm
+1::: mcpos.local::: /index.php/reports::: false::: false::: 127.0.0.1:::', 05-12-2020:01:02:39pm
+1::: mcpos.local::: /index.php/reports/detailed_sales::: false::: false::: 127.0.0.1:::', 05-12-2020:01:02:52pm
+1::: mcpos.local::: /index.php/reports/summary_sales::: false::: false::: 127.0.0.1:::', 05-12-2020:01:02:57pm
+1::: mcpos.local::: /index.php/customers::: false::: false::: 127.0.0.1:::', 05-12-2020:01:03:07pm
+1::: mcpos.local::: /index.php/items::: false::: false::: 127.0.0.1:::', 05-12-2020:01:03:12pm
+1::: mcpos.local::: /index.php/items/view/5510/width:450/random:1607151795831::: false::: false::: 127.0.0.1:::', 05-12-2020:01:03:15pm
+1::: mcpos.local::: /index.php/items/suggest_custom1::: {"q":"","limit":"100","timestamp":"1607151795930"}::: false::: 127.0.0.1:::', 05-12-2020:01:03:16pm
+1::: mcpos.local::: /index.php/items/suggest_category::: {"q":"colour pencil","limit":"100","timestamp":"1607151795927"}::: false::: 127.0.0.1:::', 05-12-2020:01:03:16pm
+1::: mcpos.local::: /index.php/items/suggest_custom10::: {"q":"","limit":"100","timestamp":"1607151795933"}::: false::: 127.0.0.1:::', 05-12-2020:01:03:16pm
+1::: mcpos.local::: /index.php/items/view/2965/width:450/random:1607151834846::: false::: false::: 127.0.0.1:::', 05-12-2020:01:03:54pm
+1::: mcpos.local::: /index.php/items/suggest_category::: {"q":"masala","limit":"100","timestamp":"1607151835004"}::: false::: 127.0.0.1:::', 05-12-2020:01:03:55pm
+1::: mcpos.local::: /index.php/items/suggest_custom1::: {"q":"0","limit":"100","timestamp":"1607151835007"}::: false::: 127.0.0.1:::', 05-12-2020:01:03:55pm
+1::: mcpos.local::: /index.php/items/suggest_custom10::: {"q":"0","limit":"100","timestamp":"1607151835010"}::: false::: 127.0.0.1:::', 05-12-2020:01:03:55pm
+1::: mcpos.local::: /index.php/config::: false::: false::: 127.0.0.1:::', 05-12-2020:01:04:07pm

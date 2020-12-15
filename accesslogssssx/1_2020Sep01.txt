@@ -1,0 +1,23 @@
+
+1::: mcpos.local::: /index.php/home::: false::: false::: 127.0.0.1:::', 01-09-2020:05:05:14am
+1::: mcpos.local::: /index.php/item_kits::: false::: false::: 127.0.0.1:::', 01-09-2020:05:05:41am
+1::: mcpos.local::: /index.php/employees::: false::: false::: 127.0.0.1:::', 01-09-2020:05:05:42am
+1::: mcpos.local::: /index.php/items::: false::: false::: 127.0.0.1:::', 01-09-2020:05:05:42am
+1::: mcpos.local::: /index.php/sales::: false::: false::: 127.0.0.1:::', 01-09-2020:05:06:02am
+1::: mcpos.local::: /index.php/receivings::: false::: false::: 127.0.0.1:::', 01-09-2020:05:06:08am
+1::: mcpos.local::: /index.php/receivings::: false::: false::: 127.0.0.1:::', 01-09-2020:05:06:13am
+1::: mcpos.local::: /index.php/receivings/change_mode::: {"mode":"return"}::: false::: 127.0.0.1:::', 01-09-2020:05:06:16am
+1::: mcpos.local::: /index.php/receivings/item_search::: {"q":"r","limit":"100","timestamp":"1598915179677"}::: false::: 127.0.0.1:::', 01-09-2020:05:06:19am
+1::: mcpos.local::: /index.php/receivings/item_search::: {"q":"re","limit":"100","timestamp":"1598915180034"}::: false::: 127.0.0.1:::', 01-09-2020:05:06:20am
+1::: mcpos.local::: /index.php/receivings/add::: {"item":"10864"}::: false::: 127.0.0.1:::', 01-09-2020:05:06:21am
+1::: mcpos.local::: /index.php/receivings/edit_item/1::: {"location":"1","price":"75.8100","quantity":"-13","discount":"0","edit_item":"Edit Item","description":""}::: false::: 127.0.0.1:::', 01-09-2020:05:06:28am
+1::: mcpos.local::: /index.php/item_kits::: false::: false::: 127.0.0.1:::', 01-09-2020:05:06:33am
+1::: mcpos.local::: /index.php/items::: false::: false::: 127.0.0.1:::', 01-09-2020:05:06:37am
+1::: mcpos.local::: /index.php/suppliers::: false::: false::: 127.0.0.1:::', 01-09-2020:05:06:39am
+1::: mcpos.local::: /index.php/reports::: false::: false::: 127.0.0.1:::', 01-09-2020:05:06:41am
+1::: mcpos.local::: /index.php/sales::: false::: false::: 127.0.0.1:::', 01-09-2020:05:06:44am
+1::: mcpos.local::: /index.php/employees::: false::: false::: 127.0.0.1:::', 01-09-2020:05:06:45am
+1::: mcpos.local::: /index.php/giftcards::: false::: false::: 127.0.0.1:::', 01-09-2020:05:06:47am
+1::: mcpos.local::: /index.php/customers::: false::: false::: 127.0.0.1:::', 01-09-2020:05:06:49am
+1::: mcpos.local::: /index.php/customers/view/299/width:400/random:1598916792283::: false::: false::: 127.0.0.1:::', 01-09-2020:05:33:12am
+1::: mcpos.local::: /index.php/home::: false::: false::: 127.0.0.1:::', 01-09-2020:06:02:37am

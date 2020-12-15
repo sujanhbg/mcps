@@ -1,0 +1,13 @@
+
+1::: nougashop.local::: /index.php/home::: false::: false::: 127.0.0.1:::', 03-06-2020:10:16:21pm
+1::: nougashop.local::: /index.php/sales::: false::: false::: 127.0.0.1:::', 03-06-2020:10:16:24pm
+1::: nougashop.local::: /index.php/employees::: false::: false::: 127.0.0.1:::', 03-06-2020:10:16:26pm
+1::: nougashop.local::: /index.php/config::: false::: false::: 127.0.0.1:::', 03-06-2020:10:16:28pm
+1::: nougashop.local::: /index.php/customers::: false::: false::: 127.0.0.1:::', 03-06-2020:10:16:30pm
+1::: nougashop.local::: /index.php/items::: false::: false::: 127.0.0.1:::', 03-06-2020:10:16:32pm
+1::: nougashop.local::: /index.php/customers::: false::: false::: 127.0.0.1:::', 03-06-2020:10:16:33pm
+1::: nougashop.local::: /index.php/sales::: false::: false::: 127.0.0.1:::', 03-06-2020:10:16:35pm
+1::: nougashop.local::: /index.php/employees::: false::: false::: 127.0.0.1:::', 03-06-2020:10:16:37pm
+1::: nougashop.local::: /index.php/items::: false::: false::: 127.0.0.1:::', 03-06-2020:10:16:39pm
+1::: nougashop.local::: /index.php/customers::: false::: false::: 127.0.0.1:::', 03-06-2020:10:16:41pm
+1::: nougashop.local::: /index.php/config::: false::: false::: 127.0.0.1:::', 03-06-2020:10:16:50pm

@@ -1,0 +1,110 @@
+
+1::: mcpos.local::: /index.php/home::: false::: false::: 127.0.0.1:::', 14-12-2020:01:05:59am
+1::: mcpos.local::: /index.php/items::: false::: false::: 127.0.0.1:::', 14-12-2020:01:06:03am
+1::: mcpos.local::: /index.php/config::: false::: false::: 127.0.0.1:::', 14-12-2020:01:06:17am
+1::: mcpos.local::: /index.php/employees::: false::: false::: 127.0.0.1:::', 14-12-2020:01:06:20am
+1::: mcpos.local::: /index.php/employees/view/1/width:750/random:1607886383265::: false::: false::: 127.0.0.1:::', 14-12-2020:01:06:23am
+1::: mcpos.local::: /index.php/employees::: false::: false::: 127.0.0.1:::', 14-12-2020:01:06:42am
+1::: mcpos.local::: /index.php/config::: false::: false::: 127.0.0.1:::', 14-12-2020:01:06:51am
+1::: mcpos.local::: /index.php/employees::: false::: false::: 127.0.0.1:::', 14-12-2020:01:06:55am
+1::: mcpos.local::: /index.php/employees/view/1/width:750/random:1607886451354::: false::: false::: 127.0.0.1:::', 14-12-2020:01:07:31am
+1::: mcpos.local::: /index.php/customers::: false::: false::: 127.0.0.1:::', 14-12-2020:01:17:14am
+1::: mcpos.local::: /index.php/customers/view/3/width:400/random:1607887036680::: false::: false::: 127.0.0.1:::', 14-12-2020:01:17:16am
+1::: mcpos.local::: /index.php/receivings::: false::: false::: 127.0.0.1:::', 14-12-2020:01:20:22am
+1::: mcpos.local::: /index.php/suppliers::: false::: false::: 127.0.0.1:::', 14-12-2020:01:20:24am
+1::: mcpos.local::: /index.php/item_kits::: false::: false::: 127.0.0.1:::', 14-12-2020:01:20:26am
+1::: mcpos.local::: /index.php/reports::: false::: false::: 127.0.0.1:::', 14-12-2020:01:20:27am
+1::: mcpos.local::: /index.php/sales::: false::: false::: 127.0.0.1:::', 14-12-2020:01:20:29am
+1::: mcpos.local::: /index.php/employees::: false::: false::: 127.0.0.1:::', 14-12-2020:01:20:30am
+1::: mcpos.local::: /index.php/giftcards::: false::: false::: 127.0.0.1:::', 14-12-2020:01:20:32am
+1::: mcpos.local::: /index.php/config::: false::: false::: 127.0.0.1:::', 14-12-2020:01:20:34am
+1::: mcpos.local::: /index.php/customers::: false::: false::: 127.0.0.1:::', 14-12-2020:01:20:35am
+1::: mcpos.local::: /index.php/items::: false::: false::: 127.0.0.1:::', 14-12-2020:01:20:36am
+1::: mcpos.local::: /index.php/item_kits::: false::: false::: 127.0.0.1:::', 14-12-2020:01:20:37am
+1::: mcpos.local::: /index.php/suppliers::: false::: false::: 127.0.0.1:::', 14-12-2020:01:20:38am
+1::: mcpos.local::: /index.php/reports::: false::: false::: 127.0.0.1:::', 14-12-2020:01:20:39am
+1::: mcpos.local::: /index.php/receivings::: false::: false::: 127.0.0.1:::', 14-12-2020:01:20:39am
+1::: mcpos.local::: /index.php/sales::: false::: false::: 127.0.0.1:::', 14-12-2020:01:20:41am
+1::: mcpos.local::: /index.php/config::: false::: false::: 127.0.0.1:::', 14-12-2020:01:20:53am
+1::: mcpos.local::: /index.php/customers::: false::: false::: 127.0.0.1:::', 14-12-2020:01:21:30am
+1::: mcpos.local::: /index.php/items::: false::: false::: 127.0.0.1:::', 14-12-2020:01:21:32am
+1::: mcpos.local::: /index.php/item_kits::: false::: false::: 127.0.0.1:::', 14-12-2020:01:21:34am
+1::: mcpos.local::: /index.php/suppliers::: false::: false::: 127.0.0.1:::', 14-12-2020:01:21:35am
+1::: mcpos.local::: /index.php/sales::: false::: false::: 127.0.0.1:::', 14-12-2020:01:21:37am
+1::: mcpos.local::: /index.php/sales/item_search::: {"q":"m","limit":"100","timestamp":"1607887302376"}::: false::: 127.0.0.1:::', 14-12-2020:01:21:42am
+1::: mcpos.local::: /index.php/sales/item_search::: {"q":"ma","limit":"100","timestamp":"1607887302579"}::: false::: 127.0.0.1:::', 14-12-2020:01:21:42am
+1::: mcpos.local::: /index.php/items/view/-1/width:450/random:1607887305315::: false::: false::: 127.0.0.1:::', 14-12-2020:01:21:45am
+1::: mcpos.local::: /index.php/items/suggest_custom10::: {"q":"","limit":"100","timestamp":"1607887305632"}::: false::: 127.0.0.1:::', 14-12-2020:01:21:45am
+1::: mcpos.local::: /index.php/items/suggest_category::: {"q":"","limit":"100","timestamp":"1607887305630"}::: false::: 127.0.0.1:::', 14-12-2020:01:21:45am
+1::: mcpos.local::: /index.php/items/suggest_category::: {"q":"b","limit":"100","timestamp":"1607887317084"}::: false::: 127.0.0.1:::', 14-12-2020:01:21:57am
+1::: mcpos.local::: /index.php/items/suggest_category::: {"q":"ba","limit":"100","timestamp":"1607887317446"}::: false::: 127.0.0.1:::', 14-12-2020:01:21:57am
+1::: mcpos.local::: /index.php/items/suggest_category::: {"q":"bab","limit":"100","timestamp":"1607887317675"}::: false::: 127.0.0.1:::', 14-12-2020:01:21:57am
+1::: mcpos.local::: /index.php/items/suggest_category::: {"q":"baby","limit":"100","timestamp":"1607887318171"}::: false::: 127.0.0.1:::', 14-12-2020:01:21:58am
+1::: mcpos.local::: /index.php/items/suggest_category::: {"q":"baby ","limit":"100","timestamp":"1607887318472"}::: false::: 127.0.0.1:::', 14-12-2020:01:21:58am
+1::: mcpos.local::: /index.php/items/suggest_category::: {"q":"baby f","limit":"100","timestamp":"1607887319024"}::: false::: 127.0.0.1:::', 14-12-2020:01:21:59am
+1::: mcpos.local::: /index.php/items/suggest_category::: {"q":"baby fo","limit":"100","timestamp":"1607887319490"}::: false::: 127.0.0.1:::', 14-12-2020:01:21:59am
+1::: mcpos.local::: /index.php/items/suggest_category::: {"q":"baby foo","limit":"100","timestamp":"1607887319650"}::: false::: 127.0.0.1:::', 14-12-2020:01:21:59am
+1::: mcpos.local::: /index.php/items/suggest_category::: {"q":"baby food","limit":"100","timestamp":"1607887319757"}::: false::: 127.0.0.1:::', 14-12-2020:01:21:59am
+1::: mcpos.local::: /index.php/items/suggest_custom10::: {"q":"1","limit":"100","timestamp":"1607887329276"}::: false::: 127.0.0.1:::', 14-12-2020:01:22:09am
+1::: mcpos.local::: /index.php/items/suggest_custom10::: {"q":"11","limit":"100","timestamp":"1607887331847"}::: false::: 127.0.0.1:::', 14-12-2020:01:22:11am
+1::: mcpos.local::: /index.php/items/suggest_custom10::: {"q":"110","limit":"100","timestamp":"1607887331969"}::: false::: 127.0.0.1:::', 14-12-2020:01:22:12am
+1::: mcpos.local::: /index.php/items/check_item_number::: {"item_id":"","item_number":""}::: false::: 127.0.0.1:::', 14-12-2020:01:22:31am
+1::: mcpos.local::: /index.php/items/save::: {"item_number":"","name":"Magi 100gm","category":"Baby Food","supplier_id":"2","cost_price":"100","unit_price":"130","custom10":"110","tax_names":["VAT","Sales Tax 2"],"tax_percents":["5",""],"1_quantity":"0","receiving_quantity":"0","reorder_level":"5","description":"","item_image":"","submit":"Submit"}::: false::: 127.0.0.1:::', 14-12-2020:01:22:32am
+1::: mcpos.local::: /index.php/sales/add::: {"item":"1"}::: false::: 127.0.0.1:::', 14-12-2020:01:22:32am
+1::: mcpos.local::: /index.php/sales::: false::: false::: 127.0.0.1:::', 14-12-2020:01:22:56am
+1::: mcpos.local::: /index.php/sales/item_search::: {"q":"m","limit":"100","timestamp":"1607887379029"}::: false::: 127.0.0.1:::', 14-12-2020:01:22:59am
+1::: mcpos.local::: /index.php/sales/item_search::: {"q":"ma","limit":"100","timestamp":"1607887379541"}::: false::: 127.0.0.1:::', 14-12-2020:01:22:59am
+1::: mcpos.local::: /index.php/sales/add::: {"item":"1"}::: false::: 127.0.0.1:::', 14-12-2020:01:23:01am
+1::: mcpos.local::: /index.php/receivings::: false::: false::: 127.0.0.1:::', 14-12-2020:01:23:04am
+1::: mcpos.local::: /index.php/receivings/item_search::: {"q":"m","limit":"100","timestamp":"1607887386247"}::: false::: 127.0.0.1:::', 14-12-2020:01:23:06am
+1::: mcpos.local::: /index.php/receivings/item_search::: {"q":"ma","limit":"100","timestamp":"1607887386726"}::: false::: 127.0.0.1:::', 14-12-2020:01:23:06am
+1::: mcpos.local::: /index.php/receivings/add::: {"item":"1"}::: false::: 127.0.0.1:::', 14-12-2020:01:23:08am
+1::: mcpos.local::: /index.php/receivings/edit_item/1::: {"location":"1","price":"100.00","quantity":"10","discount":"0","edit_item":"Edit Item","description":""}::: false::: 127.0.0.1:::', 14-12-2020:01:23:14am
+1::: mcpos.local::: /index.php/receivings/complete::: {"comment":"","payment_type":"Check","amount_tendered":"1000"}::: false::: 127.0.0.1:::', 14-12-2020:01:23:30am
+1::: mcpos.local::: /index.php/sales::: false::: false::: 127.0.0.1:::', 14-12-2020:01:23:33am
+1::: mcpos.local::: /index.php/sales/item_search::: {"q":"m","limit":"100","timestamp":"1607887414954"}::: false::: 127.0.0.1:::', 14-12-2020:01:23:35am
+1::: mcpos.local::: /index.php/sales/item_search::: {"q":"ma","limit":"100","timestamp":"1607887415427"}::: false::: 127.0.0.1:::', 14-12-2020:01:23:35am
+1::: mcpos.local::: /index.php/sales/add::: {"item":"1"}::: false::: 127.0.0.1:::', 14-12-2020:01:23:37am
+1::: mcpos.local::: /index.php/sales/edit_item/1::: {"location":"1","price":"130.00","quantity":"5","discount":"15.384615384615","edit_item":"Edit Item","description":"","serialnumber":""}::: false::: 127.0.0.1:::', 14-12-2020:01:23:50am
+1::: mcpos.local::: /index.php/sales/add_payment::: {"payment_type":"Cash","amount_tendered":"1000"}::: false::: 127.0.0.1:::', 14-12-2020:01:24:18am
+1::: mcpos.local::: /index.php/sales/delete_payment/Cash::: false::: false::: 127.0.0.1:::', 14-12-2020:01:24:25am
+1::: mcpos.local::: /index.php/sales/delete_item/1::: false::: false::: 127.0.0.1:::', 14-12-2020:01:24:28am
+1::: mcpos.local::: /index.php/sales::: false::: false::: 127.0.0.1:::', 14-12-2020:01:24:32am
+1::: mcpos.local::: /index.php/sales/item_search::: {"q":"m","limit":"100","timestamp":"1607887474246"}::: false::: 127.0.0.1:::', 14-12-2020:01:24:34am
+1::: mcpos.local::: /index.php/sales/item_search::: {"q":"ma","limit":"100","timestamp":"1607887474349"}::: false::: 127.0.0.1:::', 14-12-2020:01:24:34am
+1::: mcpos.local::: /index.php/sales/add::: {"item":"1"}::: false::: 127.0.0.1:::', 14-12-2020:01:24:36am
+1::: mcpos.local::: /index.php/sales/edit_item/1::: {"location":"1","price":"130.00","quantity":"2","discount":"15.384615384615","edit_item":"Edit Item","description":"","serialnumber":""}::: false::: 127.0.0.1:::', 14-12-2020:01:24:43am
+1::: mcpos.local::: /index.php/sales/add_payment::: {"payment_type":"Cash","amount_tendered":"1000"}::: false::: 127.0.0.1:::', 14-12-2020:01:24:52am
+1::: mcpos.local::: /index.php/sales/set_comment::: {"comment":""}::: false::: 127.0.0.1:::', 14-12-2020:01:25:14am
+1::: mcpos.local::: /index.php/sales/delete_payment/Cash::: false::: false::: 127.0.0.1:::', 14-12-2020:01:25:24am
+1::: mcpos.local::: /index.php/sales/add_payment::: {"payment_type":"Cash","amount_tendered":"500"}::: false::: 127.0.0.1:::', 14-12-2020:01:25:32am
+1::: mcpos.local::: /index.php/sales/add::: {"item":""}::: false::: 127.0.0.1:::', 14-12-2020:01:25:34am
+1::: mcpos.local::: /index.php/sales/set_comment::: {"comment":""}::: false::: 127.0.0.1:::', 14-12-2020:01:25:45am
+1::: mcpos.local::: /index.php/sales/set_comment::: {"comment":""}::: false::: 127.0.0.1:::', 14-12-2020:01:25:52am
+1::: mcpos.local::: /index.php/sales::: false::: false::: 127.0.0.1:::', 14-12-2020:01:26:09am
+1::: mcpos.local::: /index.php/sales/delete_item/1::: false::: false::: 127.0.0.1:::', 14-12-2020:01:26:17am
+1::: mcpos.local::: /index.php/sales/item_search::: {"q":"m","limit":"100","timestamp":"1607887579679"}::: false::: 127.0.0.1:::', 14-12-2020:01:26:19am
+1::: mcpos.local::: /index.php/sales/item_search::: {"q":"ma","limit":"100","timestamp":"1607887579775"}::: false::: 127.0.0.1:::', 14-12-2020:01:26:19am
+1::: mcpos.local::: /index.php/sales/add::: {"item":"1"}::: false::: 127.0.0.1:::', 14-12-2020:01:26:21am
+1::: mcpos.local::: /index.php/sales/edit_item/1::: {"location":"1","price":"130.00","quantity":"5","discount":"15.384615384615","edit_item":"Edit Item","description":"","serialnumber":""}::: false::: 127.0.0.1:::', 14-12-2020:01:26:25am
+1::: mcpos.local::: /index.php/sales/delete_payment/Cash::: false::: false::: 127.0.0.1:::', 14-12-2020:01:26:50am
+1::: mcpos.local::: /index.php/sales/delete_item/1::: false::: false::: 127.0.0.1:::', 14-12-2020:01:26:53am
+1::: mcpos.local::: /index.php/sales/item_search::: {"q":"m","limit":"100","timestamp":"1607887615435"}::: false::: 127.0.0.1:::', 14-12-2020:01:26:55am
+1::: mcpos.local::: /index.php/sales/add::: {"item":"1"}::: false::: 127.0.0.1:::', 14-12-2020:01:26:56am
+1::: mcpos.local::: /index.php/sales/edit_item/1::: {"location":"1","price":"130.00","quantity":"3","discount":"15.384615384615","edit_item":"Edit Item","description":"","serialnumber":""}::: false::: 127.0.0.1:::', 14-12-2020:01:27:02am
+1::: mcpos.local::: /index.php/sales/add_payment::: {"payment_type":"Cash","amount_tendered":"500"}::: false::: 127.0.0.1:::', 14-12-2020:01:27:08am
+1::: mcpos.local::: /index.php/sales/complete::: {"comment":""}::: false::: 127.0.0.1:::', 14-12-2020:01:27:13am
+1::: mcpos.local::: /index.php/sales::: false::: false::: 127.0.0.1:::', 14-12-2020:01:41:21am
+1::: mcpos.local::: /index.php/items::: false::: false::: 127.0.0.1:::', 14-12-2020:01:41:22am
+1::: mcpos.local::: /index.php/reports::: false::: false::: 127.0.0.1:::', 14-12-2020:01:41:24am
+1::: mcpos.local::: /index.php/reports/summary_sales::: false::: false::: 127.0.0.1:::', 14-12-2020:01:41:25am
+1::: mcpos.local::: /index.php/reports/summary_sales/2020-12-14/2020-12-14/all/0::: false::: false::: 127.0.0.1:::', 14-12-2020:01:41:27am
+1::: mcpos.local::: /index.php/items::: false::: false::: 127.0.0.1:::', 14-12-2020:01:41:32am
+1::: mcpos.local::: /index.php/customers::: false::: false::: 127.0.0.1:::', 14-12-2020:01:42:51am
+1::: mcpos.local::: /index.php/reports::: false::: false::: 127.0.0.1:::', 14-12-2020:01:42:52am
+1::: mcpos.local::: /index.php/sales::: false::: false::: 127.0.0.1:::', 14-12-2020:01:42:54am
+1::: mcpos.local::: /index.php/receivings::: false::: false::: 127.0.0.1:::', 14-12-2020:01:42:55am
+1::: mcpos.local::: /index.php/employees::: false::: false::: 127.0.0.1:::', 14-12-2020:01:42:56am
+1::: mcpos.local::: /index.php/giftcards::: false::: false::: 127.0.0.1:::', 14-12-2020:01:42:57am
+1::: mcpos.local::: /index.php/employees::: false::: false::: 127.0.0.1:::', 14-12-2020:01:42:59am
+1::: mcpos.local::: /index.php/employees/view/4/width:750/random:1607888582126::: false::: false::: 127.0.0.1:::', 14-12-2020:01:43:02am
